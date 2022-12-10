@@ -1,3 +1,4 @@
+absl-py==1.3.0
 aiohttp @ file:///opt/concourse/worker/volumes/live/ba252660-e2b9-4a6d-6906-9be4ed7deda4/volume/aiohttp_1646806382603/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
@@ -15,6 +16,7 @@ arrow @ file:///opt/conda/conda-bld/arrow_1649166651673/work
 astroid @ file:///opt/concourse/worker/volumes/live/5aff3c6b-d8ac-4e74-4846-0f446794397d/volume/astroid_1628063157520/work
 astropy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_906836d0-ceb2-4914-9bb6-ba833df0befasz7z38b2/croots/recipe/astropy_1650891084492/work
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+astunparse==1.6.3
 async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
 atomicwrites==1.4.0
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
@@ -80,18 +82,22 @@ fastjsonschema @ file:///tmp/build/80754af9/python-fastjsonschema_1620414857593/
 filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
 flake8 @ file:///tmp/build/80754af9/flake8_1620776156532/work
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+flatbuffers==22.11.23
 fonttools==4.25.0
 frozenlist @ file:///opt/concourse/worker/volumes/live/b4c48fd3-7df7-4aa9-70fc-74aba3122503/volume/frozenlist_1637767148873/work
 fsspec @ file:///opt/conda/conda-bld/fsspec_1647268051896/work
 future @ file:///opt/concourse/worker/volumes/live/f456638c-86a7-4060-7f5f-d499a051219b/volume/future_1607571337593/work
+gast==0.4.0
 gensim @ file:///opt/concourse/worker/volumes/live/01fcedc5-d7b4-4991-7b8d-28a2f2974568/volume/gensim_1646824946298/work
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2 @ file:///opt/concourse/worker/volumes/live/3b0f84f9-2a9c-48c9-6340-601e345ea292/volume/gmpy2_1645455548178/work
 google-api-core @ file:///C:/ci/google-api-core-split_1613980333946/work
 google-auth @ file:///tmp/build/80754af9/google-auth_1626320605116/work
+google-auth-oauthlib==0.4.6
 google-cloud-core @ file:///tmp/build/80754af9/google-cloud-core_1625077425256/work
 google-cloud-storage @ file:///tmp/build/80754af9/google-cloud-storage_1601307969662/work
 google-crc32c @ file:///opt/concourse/worker/volumes/live/65124554-6f08-4ab8-534c-257ad7c75cc4/volume/google-crc32c_1612242927048/work
+google-pasta==0.2.0
 google-resumable-media @ file:///tmp/build/80754af9/google-resumable-media_1624367812531/work
 googleapis-common-protos @ file:///opt/concourse/worker/volumes/live/dd3b9afd-2018-4302-7f5c-9afc1cc3e2ad/volume/googleapis-common-protos-feedstock_1617957631674/work
 graphviz==0.20.1
@@ -138,10 +144,12 @@ jupyterlab @ file:///opt/conda/conda-bld/jupyterlab_1647445413472/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-server @ file:///opt/conda/conda-bld/jupyterlab_server_1644500396812/work
 jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+keras==2.11.0
 keyring @ file:///opt/concourse/worker/volumes/live/33b3e085-74e6-4f7b-77a0-470eb43e69ae/volume/keyring_1638531366470/work
 kiwisolver @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/kiwisolver_1638569885739/work
 lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/a169db40-97bf-4f51-6893-dc751f705b7b/volume/lazy-object-proxy_1616529067444/work
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
+libclang==14.0.6
 llvmlite==0.38.0
 locket @ file:///opt/concourse/worker/volumes/live/93dd8d31-1785-4a47-5e27-b3dcf1402e70/volume/locket_1647006093697/work
 lxml @ file:///opt/concourse/worker/volumes/live/8e73df53-5332-4884-7b1c-0b765f6e416b/volume/lxml_1646642659239/work
@@ -176,8 +184,11 @@ numba @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_croo
 numexpr @ file:///opt/concourse/worker/volumes/live/87ac54fe-281a-440d-4d94-26ac99bdabdc/volume/numexpr_1640704258458/work
 numpy @ file:///opt/concourse/worker/volumes/live/a3493aeb-202b-43d0-6a51-0a73ce7c0029/volume/numpy_and_numpy_base_1649782777974/work
 numpydoc @ file:///opt/conda/conda-bld/numpydoc_1643788541039/work
+oauthlib==3.2.2
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+opencv-contrib-python==4.6.0.66
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+opt-einsum==3.3.0
 packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas==1.4.2
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
@@ -246,6 +257,7 @@ queuelib==1.5.0
 regex @ file:///opt/concourse/worker/volumes/live/92c80cd7-7907-4d3e-4d09-20e3cc1c2619/volume/regex_1648447728151/work
 requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
+requests-oauthlib==1.3.1
 rope @ file:///opt/conda/conda-bld/rope_1643788605236/work
 rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
 Rtree @ file:///opt/concourse/worker/volumes/live/18283f9b-719e-45b1-7f3a-937f49358be4/volume/rtree_1618420836397/work
@@ -287,6 +299,13 @@ tabulate==0.8.9
 TBB==0.2
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 tenacity @ file:///opt/concourse/worker/volumes/live/c1132be6-ec8e-40b3-71ba-5221ee5cb84c/volume/tenacity_1626248300498/work
+tensorboard==2.11.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorflow-io-gcs-filesystem==0.28.0
+termcolor==2.1.1
 terminado @ file:///opt/concourse/worker/volumes/live/1e61dc32-e381-4730-4e5e-6cfec5c3c4a5/volume/terminado_1644322614203/work
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
