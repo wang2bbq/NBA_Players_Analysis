@@ -56,7 +56,7 @@ python main.py
 - For dataset of Stephen Curry:
   - From the pie chart showing Stephen Curry's Points Scored in season 2021-22, we can see that he often got points per game in the 20-30 range and sometimes he even scored more than 50 points in one game, which reflects that he did well in scoring last season
   - From the first 20+ games in the line charts, we can see that Stephen Curry’s Points Scored per game is steady and his Field Goals Percentage is better than last season when outliers are not considered. He keeps a good competitive state
-    (By clicking a point with the mouse, we can intuitively see what his Points Scored and Field Goals Percentage are in which game)
+  - (By clicking a point with the mouse, we can intuitively see what his Points Scored and Field Goals Percentage are in which game)
 
 # Future Work
 - For a certain cluster of players, collect their statistical data of each game in recent seasons and find more specific similarities of these players. And provide more specific suggestions on the offensive/defensive strategy and training method of the players according to the domain knowledge
