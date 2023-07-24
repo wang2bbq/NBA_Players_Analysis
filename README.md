@@ -1,5 +1,5 @@
 # NBA Players Analysis
-This is the final project to analyze the best players in NBA 2021-22 regular season, find the correlation between NBA statistics, cluster all the players to gain insights for player trading and player training, and assess FMVP Stephen Curry's scoring ability and competition state in season 2021-22 and 2022-23.
+This is the project to analyze the best players in NBA 2021-22 regular season, find the correlation between NBA statistics, cluster all the players to gain insights for player trading and player training, and assess FMVP Stephen Curry's scoring ability and competition state in season 2021-22 and 2022-23.
 
 # Dependencies
 - requests
